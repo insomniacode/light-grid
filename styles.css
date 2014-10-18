@@ -1,0 +1,53 @@
+table, td {
+	border: 0px;
+	padding: 1px;
+	margin-left:auto; 
+    margin-right:auto;
+	position: relative;
+	text-align: center;
+	overflow: auto;
+	width: auto;
+	}
+
+.start {
+	background-color: #000000;
+	float: center;
+}
+	
+.scratched {
+	background-color: #9932cc;
+	background-image: linear-gradient(45deg, #00ced1, #9932cc);	
+	overflow: auto;
+	max-width: auto;
+}
+	
+body {
+	background-color: #B0C4DE;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	text-align: center;	
+	cursor: crosshair;
+}
+
+h1 {
+	color:#e6e6fa;
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+	text-align: center;
+}
+
+#info {
+	border-radius: 10px;
+	background-color: #191919;
+	width: 75%;
+	margin-left: auto ;
+	margin-right: auto ;
+	border: 5px solid #000000;
+	padding: 10px;
+}
+
+
+div {
+	clear:both;
+}
